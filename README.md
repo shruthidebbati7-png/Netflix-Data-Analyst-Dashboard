@@ -25,19 +25,22 @@ The dashboard provides insights into movies and TV shows available on Netflix an
 - Data Analysis
 - CSV Dataset
 
-## 📊 Dashboard Insights
+## 📊 Dashboard
 
-The dashboard includes:
+![Netflix Data Analyst Dashboard](netflix%20project.png)
 
-- Total Netflix Titles
+## 📈 Key Analysis
+
+The dashboard analyzes:
+
 - Movies vs TV Shows
 - Content by Genre
 - Content by Release Year
 - Top Countries
 - Ratings Distribution
-- Language Analysis
-- Title Analysis
-- Key Netflix Trends and Insights
+- Languages
+- Netflix Titles
+- Content Trends
 
 ## 📂 Dataset
 
@@ -55,6 +58,16 @@ The project uses a Netflix titles dataset containing information such as:
 - Duration
 - Listed In
 - Description
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- Tableau
+- Data Storytelling
+- Business Insights
 
 ## 📈 Project Outcome
 

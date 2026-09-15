@@ -27,7 +27,7 @@ The dashboard provides insights into movies and TV shows available on Netflix an
 
 ## 📊 Dashboard
 
-![Netflix Data Analyst Dashboard](netflix%20project.png)
+![Netflix Data Analyst Dashboard](./Netflix%20Project.png)
 
 ## 📈 Key Analysis
 
